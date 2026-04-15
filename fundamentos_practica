@@ -1,1 +1,15 @@
-def
+read(n) -- lee n bytes
+tell() -- donde estoy
+seek(n) -- andá a n
+str.encode(encoding)
+			.decode(encoding)
+struct.pack(formato, contenido binario) -- devuelve bytes - import struct
+					.unpack(formato, contenido binario) -- devuelve tupla (contenido,  )
+
+Tipos:
+i -- int (4)
+b -- byte
+f -- float (4)
+c -- char (1)
+d -- double (8)
+s -- string (n)
